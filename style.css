@@ -1,0 +1,27 @@
+  
+body
+
+{
+ 
+       color: black;
+ background-color: honeydew;
+
+
+}
+
+*{
+    font-family: georgia
+}
+
+h1 {
+    background-color: darkseagreen;
+}
+
+
+
+
+
+a:hover {
+    
+    background-color:whitesmoke
+}
